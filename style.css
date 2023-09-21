@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+}
+div.maincontent{
+    height: 745px;
+    background-image: url('img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.maincontentfc24{
+    background-image: url(img/haalaand.jpg);
+}
+div.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin 18px;
+}
+div.navbar a.join{
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px solid white ;
+    background-color: green;
+    color: black;
+}
+div.navbar a{
+    padding: 10px;
+    border-radius: 20px;
+    color: white ;
+    text-decoration: none;
+}
+div.details{
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+    color:black;
+    margin-left: 600px;
+    margin-top: 300px;
+}
+div.details a.dan22{
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid white ;
+    background-color: green;
+    color: black;
+    text-decoration: none;
+}
+div.World{
+    text-align: center;
+    justify-content: center;
+}
+div.Leagues{
+    justify-content: center;
+    align-content: center;   
+}
+div.Leagues img{
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    height: 100px;
+    margin: 18px;
+    margin-left: 300px;
+}
+div.preorderdetails{
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+div.planprices{
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 500px;
+    text-align: center;
+    justify-content: center;
+}
+div.players h1{
+    text-align: center;
+    justify-content: center;
+}
+div.players img{
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   justify-items: center;
+}
